@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![simogerr's GitHub Banner]([.AIV/resources/gitbanner readme.png))]
+[![simogerr's GitHub Banner]([[.]([https://github.com/simogerr/AIV)simogerr/AIV/resources/gitbanner readme.png))](https://github.com/simogerr/AIV/blob/main/resources/gitbanner%20readme.png)]
 <!--
 **simogerr/simogerr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
