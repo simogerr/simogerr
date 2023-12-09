@@ -1,7 +1,7 @@
 
 ![gitHub_banner](https://github.com/simogerr/AIV/blob/main/resources/gitbanner_readme.png)
 ### Hi there 👋
-<p>I'm Simone, passionate about game development. I'm excited to explore the challenges and opportunities in crafting engaging gameplay mechanics and captivating visuals. I'm shaping my path in the field of video game programming, and I welcome feedback to help refine and enhance my journey. 🎮</p>
+I'm Simone, passionate about game development. I'm excited to explore the challenges and opportunities in crafting engaging gameplay mechanics and captivating visuals. I'm shaping my path in the field of video game programming, and I welcome feedback to help refine and enhance my journey. 🎮
 
 - 🔭 I’m currently working in the videogame industry
 - 🌱 I’m currently learning C
