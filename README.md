@@ -1,5 +1,5 @@
 
-![Braydon's GitHub Banner](https://github.com/simogerr/AIV/blob/main/resources/gitbanner_readme.png)
+![Braydon's GitHub Banner](https://github.com/simogerr/AIV/blob/main/resources/gitbanner_readme2.png)
 ### Hi there 👋
 
 <!--
