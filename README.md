@@ -4,7 +4,7 @@
 I'm Simone, passionate about game development. I'm excited to explore the challenges and opportunities in crafting engaging gameplay mechanics and captivating visuals. I'm shaping my path in the field of video game programming, and I welcome feedback to help refine and enhance my journey. 🎮
 
 - 🔭 I’m currently working in the videogame industry
-- 🌱 I’m currently learning C
+- 🌱 I’m currently studying @AIV-Accademia Italiana Videogiochi
 
 
 <!--
