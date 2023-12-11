@@ -7,6 +7,8 @@ I'm Simone, passionate about game development. I'm excited to explore the challe
 - 🌱 I’m currently studying @AIV-Accademia Italiana Videogiochi
 
 
+tag<hello>
+
 <!--
 **simogerr/simogerr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
