@@ -10,8 +10,6 @@ I'm Simone, passionate about game development. I'm excited to explore the challe
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simogerr&hide=TeX&layout=compact&theme=prussian)
 
-![](https://api.visitorbadge.io/api/VisitorHit?user=simogerr&repo=simogerr/simogerr&countColor=%FFFF00)
-
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=simogerr.simogerr)
 
 <!--
