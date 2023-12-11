@@ -8,6 +8,9 @@ I'm Simone, passionate about game development. I'm excited to explore the challe
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simone-gerosa-7a306b98/)
 
+https://img.shields.io/endpoint?url=https%3A%2F%2Fgithub.com%2Fsimogerr&style=flat&logo=github&label=AIV%20repo
+
+
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Adeel91&count_private=true&show_icons=true&include_all_commits=true&theme=prussian&layout=compact)
 
 ![](https://api.visitorbadge.io/api/VisitorHit?user=simogerr&repo=simogerr/simogerr&countColor=%237B1E7A)
