@@ -10,6 +10,8 @@ I'm Simone, passionate about game development. I'm excited to explore the challe
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Adeel91&count_private=true&show_icons=true&include_all_commits=true&theme=prussian&layout=compact)
 
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Adeel91.Adeel91)
+
 <!--
 **simogerr/simogerr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
