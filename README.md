@@ -12,7 +12,7 @@ I'm Simone, passionate about game development. I'm excited to explore the challe
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simogerr&hide=TeX&layout=compact&theme=prussian)
 
-![](https://api.visitorbadge.io/api/VisitorHit?user=simogerr&repo=simogerr/simogerr&countColor=%237B1E7A)
+![](https://api.visitorbadge.io/api/VisitorHit?user=simogerr&repo=simogerr/simogerrhide=TeX&layout=compact&countColor=%237B1E7A)
 
 <!--
 
