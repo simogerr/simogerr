@@ -1,5 +1,5 @@
 
-![gitHub_banner](https://github.com/simogerr/AIV/blob/main/resources/github_banner3.png)
+![gitHub_banner](https://github.com/simogerr/AIV/blob/main/resources/github_banner_transparency.png)
 ### Hi there 👋
 I'm Simone, passionate about game development. I'm excited to explore the challenges and opportunities in crafting engaging gameplay mechanics and captivating visuals. I'm shaping my path in the field of video game programming, and I welcome feedback to help refine and enhance my journey. 🎮
 
