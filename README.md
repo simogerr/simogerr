@@ -7,6 +7,12 @@ I'm Simone, passionate about game development. I'm excited to explore the challe
 - 🌱 I’m currently studying @AIV-Accademia Italiana Videogiochi
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simone-gerosa-7a306b98/)
+![](https://img.shields.io/badge/Engine-Unity-informational?style=flat&logo=unity&color=ffea00)
+![](https://img.shields.io/badge/Engine-UnrealEngine-informational?style=flat&logo=unrealengine&color=ffea00)
+![](https://img.shields.io/badge/Code-c-informational?style=flat&logo=c&color=009dff)
+![](https://img.shields.io/badge/Code-csharp-informational?style=flat&logo=csharp&color=009dff)
+![](https://img.shields.io/badge/Code-c++-informational?style=flat&logo=cplusplus&color=009dff)
+![](https://img.shields.io/badge/Code-python-informational?style=flat&logo=python&color=009dff)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simogerr&hide=TeX&layout=compact&theme=prussian)
 
