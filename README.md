@@ -1,11 +1,11 @@
 
 ![gitHub_banner](https://github.com/simogerr/AIV/blob/main/resources/github_banner_transparency.png)
 # Ciao! 👋
-I'm Simone, passionate about game development. I'm excited to explore the challenges and opportunities in crafting engaging gameplay mechanics and captivating visuals. I'm shaping my path in the field of video game programming, and I welcome feedback to help refine and enhance my journey.
+I'm Simone, game developer and techncal animator. I'm excited to explore the challenges and opportunities in crafting engaging gameplay mechanics and captivating visuals. I'm shaping my path in the field of video game programming, and I welcome feedback to help refine and enhance my journey.
 
 ## About
 - 🔭 Working in AAA videogame studio
-- 🌱 Studying @AIV-Accademia Italiana Videogiochi
+- 🌱 AIV-Accademia Italiana Videogiochi
 
 
 ## Connect
